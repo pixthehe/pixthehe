@@ -1,7 +1,4 @@
-<img src="https://github.com/pixthehe/pixthehe/blob/main/Signature.png?raw=true"/>
-
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pixthehe&hide=stars,prs,contribs,issues&theme=blue-green)
-
 
 
 Hi I'm ***Devin***! I love to code and make fun projects. 
